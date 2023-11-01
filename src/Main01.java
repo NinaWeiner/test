@@ -16,8 +16,8 @@ public class Main03 {
     return res;  // возвращаем результат
   }
   public static void main(String[] args) {
-    int[] arr = {4,8,1,2,3};
-    System.out.println("chislo is massiva: ");
+    int[] arr = {4,8,1,2,5};
+    System.out.println("chislo is sadannogo massiva: ");
     System.out.println(concat(arr));
   }
 }
