@@ -16,7 +16,7 @@ public class Main03 {
     return res;  // возвращаем результат
   }
   public static void main(String[] args) {
-    int[] arr = {4,8,1,2,3};
+    int[] arr = {2,9,4,8,3};
     System.out.println(concat(arr));
   }
 }
