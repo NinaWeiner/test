@@ -1,5 +1,5 @@
 package classwork;
-
+//metod kotoryj budet obedinatj massiv cifr 
 public class Main03 {
   // на вход подаётся массив,в к-ом записанныы только цифры.
   // Объединить этот массив в одно число.
