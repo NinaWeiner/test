@@ -1,5 +1,5 @@
 package lasthomework;
-// metod kotoryj budet obedinqtj
+// metod kotoryj budet obedinqtj massiv
 public class Main01 {
   // написать метод, к-ый считает целую степень числа,т.е.наприме 2 в степени 3
   // 2*2*2=8.
