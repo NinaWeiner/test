@@ -11,7 +11,7 @@ public class Main01 {
       base = 1 / base;  // то число переворачиваем,т.е. 1/число. пишем в знаменатель
       pow *= -1;
     }
-    double res = 1;
+    double res = 5;
     for (int i = 0; i < pow; i++){
       res *= base; // res = res * base
     }
