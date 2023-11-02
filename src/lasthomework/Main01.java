@@ -18,6 +18,7 @@ public class Main01 {
     return res;
   }
   public static void main(String[] args) {
+    System.out.println(" chislo is massiva");
     System.out.println(power(2, -3)); // 2 в степени -3
   }
 }
